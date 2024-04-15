@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3328FE0D-6744-4D28-B06A-B63ADB5832B8}|ConsoleApp15\\ConsoleApp15.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp15\\consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3328FE0D-6744-4D28-B06A-B63ADB5832B8}|ConsoleApp15\\ConsoleApp15.csproj|solutionrelative:consoleapp15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4420026-C8F1-4C2E-9DD5-339BBC1DCEF4}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp15\\core\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4420026-C8F1-4C2E-9DD5-339BBC1DCEF4}|Core\\Core.csproj|solutionrelative:core\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4420026-C8F1-4C2E-9DD5-339BBC1DCEF4}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp15\\core\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4420026-C8F1-4C2E-9DD5-339BBC1DCEF4}|Core\\Core.csproj|solutionrelative:core\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4420026-C8F1-4C2E-9DD5-339BBC1DCEF4}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp15\\core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4420026-C8F1-4C2E-9DD5-339BBC1DCEF4}|Core\\Core.csproj|solutionrelative:core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4420026-C8F1-4C2E-9DD5-339BBC1DCEF4}|Core\\Core.csproj|c:\\users\\acer\\onedrive\\\u0130\u015F masas\u0131\\back-end\\consoleapp15\\core\\models\\rentcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4420026-C8F1-4C2E-9DD5-339BBC1DCEF4}|Core\\Core.csproj|solutionrelative:core\\models\\rentcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RentCar.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp15\\Core\\Models\\RentCar.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\RentCar.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp15\\Core\\Models\\RentCar.cs",
+              "RelativeToolTip": "Core\\Models\\RentCar.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAEAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:21:39.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp15\\Core\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp15\\Core\\Models\\Car.cs",
+              "RelativeToolTip": "Core\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:15:20.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp15\\Core\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp15\\Core\\Models\\Truck.cs",
+              "RelativeToolTip": "Core\\Models\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:15:46.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp15\\Core\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp15\\Core\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Core\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:14:58.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp15\\ConsoleApp15\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp15\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\OneDrive\\\u0130\u015F masas\u0131\\Back-end\\ConsoleApp15\\ConsoleApp15\\Program.cs",
+              "RelativeToolTip": "ConsoleApp15\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T21:13:47.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
